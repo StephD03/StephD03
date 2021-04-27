@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently improving my skills on Git, Sphinx and rST.
+- 🌱 I’m improving my skills on Git, Static site generators and rST.
 - 👯 I’m looking to collaborate on more open-sources communities
-- 🤔 I’m looking for help with ...
-- ⚡ Active goal: ...
-- ⚡ Not so active but still a goal:
+
+    - ⚡ Active goal: ...
+    - ⚡ Not so active but still a goal:
 
 ## My Open-source engagement
 - Google Season of Docs 2020
