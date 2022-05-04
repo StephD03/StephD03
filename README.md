@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m improving my skills on Git, Static site generators, and rST!
-- 👯 I’m looking to collaborate on more open-source software documentation.
+- 👯 I’m looking to collaborate in open-source software documentation.
 
     - ⚡ **Active goals**: Looking for opportunities to contribute to documentation in open-source orgs.
     - ⚡ **Others**: Getting my *learning bites, snacks, and meals* of technology daily!
