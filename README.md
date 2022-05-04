@@ -11,7 +11,7 @@ Here are some ideas to get you started:
     - ⚡ **Others**: Getting my *learning bites, snacks, and meals* of technology daily!
 
 ## My Open-source engagement
-- [**Google Season of Docs 2020**](https://developers.google.com/season-of-docs/docs/2020/participants): Last year and part of this year, [I took part in the second edition of Season of Docs](https://developers.google.com/season-of-docs/docs/2020/participants/project-kolibri-stephdix). I contributed to Learning Equality open-source organization in expanding their user documentation Style guide. It was such a rewarding experience!
+- [**Google Season of Docs 2020**](https://developers.google.com/season-of-docs/docs/2020/participants): [I took part in the second edition of Season of Docs](https://developers.google.com/season-of-docs/docs/2020/participants/project-kolibri-stephdix). I contributed to Learning Equality open-source organization in expanding their user documentation Style guide. It was such a rewarding experience!
 
 
 ## My ongoing projects
