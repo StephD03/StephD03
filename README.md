@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 - 🌱 I’m improving my skills on Git, Static site generators, and rST!
 - 👯 I’m looking to collaborate on more open-source software documentation.
 
-    - ⚡ **Active goals**: Looking for a full-time job **AND** opportunities to contribute to documentation in open-source orgs.
+    - ⚡ **Active goals**: Looking for opportunities to contribute to documentation in open-source orgs.
     - ⚡ **Others**: Getting my *learning bites, snacks, and meals* of technology daily!
 
 ## My Open-source engagement
 - [**Google Season of Docs 2020**](https://developers.google.com/season-of-docs/docs/2020/participants): Last year and part of this year, [I took part in the second edition of Season of Docs](https://developers.google.com/season-of-docs/docs/2020/participants/project-kolibri-stephdix). I contributed to Learning Equality open-source organization in expanding their user documentation Style guide. It was such a rewarding experience!
-- [**Google Season of Docs 2021**](https://developers.google.com/season-of-docs/docs/participants): I’m participating in this year's GSoD! 
+
 
 ## My ongoing projects
 
