@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m improving my skills on Git, Static site generators, and rST!
-- 👯 I’m looking to collaborate in open-source software documentation.
+- 🔭 I’m currently working as a Technical Writer-Editor at a cybersecurity company
+- 🌱 I’m improving my skills on Git, Static site generators, rST AND in my knowledge in Cybersec of course!
+- 👯 I’m ALWAYS looking to collaborate in open-source software documentation.
 
     - ⚡ **Active goals**: Looking for opportunities to contribute to documentation in open-source orgs.
     - ⚡ **Others**: Getting my *learning bites, snacks, and meals* of technology daily!
@@ -39,3 +39,6 @@ Connect with me on
 
 
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:stepanieailin03@gmail.com)
+
+
+[<img align="left" alt="hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>](https://technwrite.hashnode.dev/)
