@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 
 ## My ongoing projects
 
-- **My LinkedIn blogging experiment**
-  
-  *Status*: In the oven
-
-I wrote [my first ever article on LinkedIn](https://www.linkedin.com/pulse/benefits-dual-boot-system-stephanie-dixon-de-knight?trk=public_profile_article_view) a few months ago describing my experience working and setting up a dual boot system. Blogging has always caught my attention. You may be asking yourself why LinkedIn? Simple! I found interesting how LinkedIn can work as a blogging spot and where you can connect with tons of people that share the same professional interests and belong to your niche. Long story short, the idea is a 6-blog entry including a series. Despite the result, it excites me to see how far I go on statistics! 
-
 - **Portfolio migration**
   
   *Status*: Getting the ingredients
